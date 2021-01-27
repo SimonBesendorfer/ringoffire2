@@ -3,7 +3,7 @@
     height: 100vh;
     max-width: 100%;
     background-image: url('/assets/img/board.jpg');
-    background-size: 100%;
+    background-size: 100%, cover;
     display: flex;
     justify-content: center;
     align-items: center;
